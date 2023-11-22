@@ -5,7 +5,8 @@
   "description": "template for nodejs",
   "type": "module",
   "devDependencies": {
-    "bun-types": "latest"
+    "bun-types": "latest",
+    "supertest": "^6.3.3"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
